@@ -1,1 +1,1 @@
-# izzyhost.io
+# izzyhost.github.io
